@@ -2,7 +2,7 @@
 %GB comments
 1.90 using the function imfindcircles, be more strict in your radial dimensions for larger. If I change your parameters to [20 50], the result is much better and you don’t get spurious circles. 
 2. 90 more commentary on your results should be provided. 
-overall: 95
+overall: 90
 
 
 % Problem 1. In this directory, you will find the same image of yeast cells as you used
